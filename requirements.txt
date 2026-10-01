@@ -5,3 +5,5 @@ scikit-learn==1.9.0
 gunicorn==26.2.0
 google-genai==2.24.0
 markdown
+Pillow==11.3.0
+pydantic-settings
